@@ -12,5 +12,5 @@ this is how we make seperation
 
 
 | column1 | column2 |
- -------------------
+|---------|---------|
 | e1      | e2      |
